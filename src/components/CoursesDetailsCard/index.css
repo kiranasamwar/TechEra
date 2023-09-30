@@ -1,0 +1,35 @@
+.details-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  background-color: #ffffff;
+  padding: 50px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  border-radius: 10px;
+  width: 70%;
+  padding: 0px;
+}
+
+.details-logo {
+  height: 400px;
+}
+
+.name-description-container {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.details-name {
+  color: #475569;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.details-description {
+  color: #64748b;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 35px;
+}

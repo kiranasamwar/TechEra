@@ -1,0 +1,14 @@
+.header-container {
+  background-color: #f1f5f9;
+  padding: 10px;
+  padding-left: 100px;
+}
+
+.website-logo {
+  height: 52px;
+  width: 150px;
+}
+
+.link {
+  text-decoration: none;
+}

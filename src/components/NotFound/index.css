@@ -1,0 +1,25 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.notfound-image {
+  margin-bottom: 15px;
+  margin-top: 50px;
+  width: 450px;
+}
+
+.notfound-heading {
+  color: #475569;
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: -10px;
+}
+
+.notfound-description {
+  color: #64748b;
+  font-size: 18px;
+  font-weight: 400;
+}

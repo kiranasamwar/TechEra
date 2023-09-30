@@ -1,0 +1,18 @@
+.list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  margin-right: 100px;
+  margin-bottom: 100px;
+}
+
+.course-name {
+  font-family: 'Roboto';
+  color: #1e293b;
+  font-weight: 500;
+  padding-left: 10px;
+}
+
+.link {
+  text-decoration: none;
+}
